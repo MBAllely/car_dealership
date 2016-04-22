@@ -1,23 +1,23 @@
 # Car Dealership
 
-### By _**Marika Allely and Adam Ross Russell**_
+#### By Marika Allely and Adam Ross Russell
 
 ## Description
 
 #### This app was built as an exercise for Epicodus and is not meant to be replicated.  I'm keeping it here for my own records, and for nostalgia's sake.  Feel free to play with it, but be aware that it is not a complete project.
 
-_An exercise in PHP, this app is a car dealership site with basic CRUD functionality._
-
+_A car dealership app.  Built as an exercise in setters and getters_
 
 ## Setup/Installation Requirements
 
-1. Fork and clone this repository from [gitHub](https://github.com/MBAllely/car_dealership)
-2. Open the index.html file in your browser
+* Clone this repository from [gitHub](https://github.com/MBAllely/car_dealership)
+* Open terminal and run the command 'composer install' in the address_book folder
+* In the terminal, change directories to the web folder, run the command 'php -S localhost:8000' to run your local server
+* Open browser and navigate to http://localhost8000
+* Must be connected to the internet for bootstrap and images to render
 
 ## Known Bugs
-
 _As previously stated, this is not a complete project._
-
 
 ## Support and contact details
 
@@ -26,10 +26,11 @@ _Or send me weird photos, like cats wearing socks.  I like those._
 
 ## Technologies Used
 
-HTML, CSS, jQuery, JavaScript
+This program uses HTML, CSS, Bootstrap, PHP, Silex, and Twig
 
 ### License
 
-This software is licensed under the MIT License.
+This software is licensed under the MIT license
 
-Copyright (c) 2016 **_Marika (Space Pants) Allely and Adam Ross Russell_** 
+Copyright (c) 2016 _**Marika 'Space Pants' Allely and Adam Ross Russell**_
+
